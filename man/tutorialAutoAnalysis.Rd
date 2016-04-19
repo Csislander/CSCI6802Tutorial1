@@ -17,6 +17,5 @@ Complete run of all combinations of methods. Used in analysis, not used for tuto
 }
 \examples{
 
-
 }
 
