@@ -1,3 +1,15 @@
+#' Cross validated KNN for analysis
+#' NOT VIEWABLE IN PACKAGE
+#'
+#' @param
+#' @return
+#'
+#'
+#'
+#' @examples
+#'
+#'
+
 tutKNNcv <- function(inputFile, folds = 5, paramGrid = expand.grid(k = 2:30), repeatn = 3){
 
   #Run knn with cv on data

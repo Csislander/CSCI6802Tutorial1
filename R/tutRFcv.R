@@ -1,3 +1,15 @@
+#' Cross validated RF for analysis
+#' NOT VIEWABLE IN PACKAGE
+#'
+#' @param
+#' @return
+#'
+#'
+#'
+#' @examples
+#'
+#'
+
 tutRFcv <- function(inputFile, ntree = 100, folds = 5){
 
   ctrl <- trainControl(method = "cv", number = folds)

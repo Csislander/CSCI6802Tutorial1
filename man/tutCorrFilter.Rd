@@ -6,7 +6,17 @@
 \usage{
 tutCorrFilter(inputFile, c = 0.5, printMat = FALSE)
 }
+\arguments{
+\item{inputFile}{Input k-mer file}
+}
+\value{
+
+}
 \description{
 Correlational filtering
+}
+\examples{
+
+
 }
 

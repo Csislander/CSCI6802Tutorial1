@@ -1,3 +1,15 @@
+#' Cross validated NB for analysis
+#' NOT VIEWABLE IN PACKAGE
+#'
+#' @param
+#' @return
+#'
+#'
+#'
+#' @examples
+#'
+#'
+
 tutNBcv <- function(inputFile, folds = 5){
 
   ctrl <- trainControl(method = "cv", number = folds)

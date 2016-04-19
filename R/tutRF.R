@@ -1,3 +1,15 @@
+#' Random Forest
+#'
+#' @param inputFile Input k-mer file
+#' @return
+#'
+#'
+#'
+#' @export
+#' @examples
+#'
+#'
+
 tutRF <- function(inputFile, ntree = 100, t = 33){
   if(!("caret" %in% installed.packages()[,1])){
     install.packages("caret")

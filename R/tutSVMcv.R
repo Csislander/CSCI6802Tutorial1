@@ -1,3 +1,15 @@
+#' Cross validated SVM for analysis
+#' NOT VIEWABLE IN PACKAGE
+#'
+#' @param
+#' @return
+#'
+#'
+#'
+#' @examples
+#'
+#'
+
 tutSVMcv <- function(inputFile, kernel = "linear", paramGrid = NULL, gridlen = 20, folds = 5){
 
   ctrl <- trainControl(method = "cv", number = folds)

@@ -1,3 +1,15 @@
+#' Support Vector Machines
+#'
+#' @param inputFile Input k-mer file
+#' @return
+#'
+#'
+#'
+#' @export
+#' @examples
+#'
+#'
+
 tutSVM <- function(inputFile, kernel = "linear", paramGrid = NULL, gridlen = 20, t = 33){
   if(!("caret" %in% installed.packages()[,1])){
     install.packages("caret")

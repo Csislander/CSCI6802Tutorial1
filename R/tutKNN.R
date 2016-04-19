@@ -1,3 +1,15 @@
+#' K-Nearest Neighbours
+#'
+#' @param inputFile Input k-mer file
+#' @return
+#'
+#'
+#'
+#' @export
+#' @examples
+#'
+#'
+
 tutKNN <- function(inputFile, knum = 10, t = 33){
   if(!("caret" %in% installed.packages()[,1])){
     install.packages("caret")

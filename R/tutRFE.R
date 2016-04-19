@@ -1,3 +1,15 @@
+#' Recursive Feature Elimination
+#'
+#' @param inputFile Input k-mer file
+#' @return
+#'
+#'
+#'
+#' @export
+#' @examples
+#'
+#'
+
 tutRFE <- function(inputFile, featureSize =seq(round(ncol(inputFile)*0.5),round(ncol(inputFile)*0.25), length.out = 5)){
 
   if(!("caret" %in% installed.packages()[,1])){

@@ -1,4 +1,15 @@
 #' Correlational filtering
+#'
+#' @param inputFile Input k-mer file
+#' @return
+#'
+#'
+#'
+#' @export
+#' @examples
+#'
+#'
+
 
 tutCorrFilter <- function(inputFile, c = 0.5, printMat = FALSE){
 

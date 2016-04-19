@@ -1,3 +1,15 @@
+#' Plot accuracies of all methods and their error bars
+#' NOT VIEWABLE IN PACKAGE
+#'
+#' @param
+#' @return
+#'
+#'
+#'
+#' @examples
+#'
+#'
+
 plotAccuracies <- function(accuracies, n){
   require(ggplot2)
 

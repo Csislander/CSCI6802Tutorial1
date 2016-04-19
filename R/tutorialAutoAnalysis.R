@@ -1,3 +1,15 @@
+#' Complete run of all combinations of methods
+#' NOT VIEWABLE IN PACKAGE
+#'
+#' @param inputFile Input original file
+#' @return
+#'
+#'
+#'
+#' @examples
+#'
+#'
+
 tutorialAutoAnalysis <- function(inputFile){
 
   kmerFile <- prot-index(inputFile, w = 1, W = 2, g = 1, G = 1)
