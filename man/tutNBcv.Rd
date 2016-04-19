@@ -2,8 +2,7 @@
 % Please edit documentation in R/tutNBcv.R
 \name{tutNBcv}
 \alias{tutNBcv}
-\title{Cross validated NB for analysis
-NOT VIEWABLE IN PACKAGE}
+\title{Cross validated NB for analysis, not used for tutorial.}
 \usage{
 tutNBcv(inputFile, folds = 5)
 }
@@ -11,8 +10,7 @@ tutNBcv(inputFile, folds = 5)
 
 }
 \description{
-Cross validated NB for analysis
-NOT VIEWABLE IN PACKAGE
+Cross validated NB for analysis, not used for tutorial.
 }
 \examples{
 

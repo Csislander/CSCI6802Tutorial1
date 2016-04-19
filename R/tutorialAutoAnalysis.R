@@ -1,5 +1,4 @@
-#' Complete run of all combinations of methods
-#' NOT VIEWABLE IN PACKAGE
+#' Complete run of all combinations of methods. Used in analysis, not used for tutorial.
 #'
 #' @param inputFile Input original file
 #' @return

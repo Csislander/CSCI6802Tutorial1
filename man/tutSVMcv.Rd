@@ -2,8 +2,7 @@
 % Please edit documentation in R/tutSVMcv.R
 \name{tutSVMcv}
 \alias{tutSVMcv}
-\title{Cross validated SVM for analysis
-NOT VIEWABLE IN PACKAGE}
+\title{Cross validated SVM for analysis, not used for tutorial.}
 \usage{
 tutSVMcv(inputFile, kernel = "linear", paramGrid = NULL, gridlen = 20,
   folds = 5)
@@ -12,8 +11,7 @@ tutSVMcv(inputFile, kernel = "linear", paramGrid = NULL, gridlen = 20,
 
 }
 \description{
-Cross validated SVM for analysis
-NOT VIEWABLE IN PACKAGE
+Cross validated SVM for analysis, not used for tutorial.
 }
 \examples{
 

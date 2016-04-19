@@ -2,8 +2,7 @@
 % Please edit documentation in R/plotAccuracies.R
 \name{plotAccuracies}
 \alias{plotAccuracies}
-\title{Plot accuracies of all methods and their error bars
-NOT VIEWABLE IN PACKAGE}
+\title{Plot accuracies of all methods and their error bars. Used in analysis, not used for tutorial.}
 \usage{
 plotAccuracies(accuracies, n)
 }
@@ -11,8 +10,7 @@ plotAccuracies(accuracies, n)
 
 }
 \description{
-Plot accuracies of all methods and their error bars
-NOT VIEWABLE IN PACKAGE
+Plot accuracies of all methods and their error bars. Used in analysis, not used for tutorial.
 }
 \examples{
 

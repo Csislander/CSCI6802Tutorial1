@@ -2,8 +2,7 @@
 % Please edit documentation in R/tutRFcv.R
 \name{tutRFcv}
 \alias{tutRFcv}
-\title{Cross validated RF for analysis
-NOT VIEWABLE IN PACKAGE}
+\title{Cross validated RF for analysis, not used for tutorial.}
 \usage{
 tutRFcv(inputFile, ntree = 100, folds = 5)
 }
@@ -11,8 +10,7 @@ tutRFcv(inputFile, ntree = 100, folds = 5)
 
 }
 \description{
-Cross validated RF for analysis
-NOT VIEWABLE IN PACKAGE
+Cross validated RF for analysis, not used for tutorial.
 }
 \examples{
 

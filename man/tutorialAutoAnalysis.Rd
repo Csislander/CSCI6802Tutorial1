@@ -2,8 +2,7 @@
 % Please edit documentation in R/tutorialAutoAnalysis.R
 \name{tutorialAutoAnalysis}
 \alias{tutorialAutoAnalysis}
-\title{Complete run of all combinations of methods
-NOT VIEWABLE IN PACKAGE}
+\title{Complete run of all combinations of methods. Used in analysis, not used for tutorial.}
 \usage{
 tutorialAutoAnalysis(inputFile)
 }
@@ -14,8 +13,7 @@ tutorialAutoAnalysis(inputFile)
 
 }
 \description{
-Complete run of all combinations of methods
-NOT VIEWABLE IN PACKAGE
+Complete run of all combinations of methods. Used in analysis, not used for tutorial.
 }
 \examples{
 

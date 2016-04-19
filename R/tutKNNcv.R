@@ -1,5 +1,4 @@
-#' Cross validated KNN for analysis
-#' NOT VIEWABLE IN PACKAGE
+#' Cross validated KNN for analysis, not used for tutorial.
 #'
 #' @param
 #' @return

@@ -1,5 +1,4 @@
-#' Cross validated RF for analysis
-#' NOT VIEWABLE IN PACKAGE
+#' Cross validated RF for analysis, not used for tutorial.
 #'
 #' @param
 #' @return

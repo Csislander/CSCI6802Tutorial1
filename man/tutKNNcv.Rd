@@ -2,8 +2,7 @@
 % Please edit documentation in R/tutKNNcv.R
 \name{tutKNNcv}
 \alias{tutKNNcv}
-\title{Cross validated KNN for analysis
-NOT VIEWABLE IN PACKAGE}
+\title{Cross validated KNN for analysis, not used for tutorial.}
 \usage{
 tutKNNcv(inputFile, folds = 5, paramGrid = expand.grid(k = 2:30),
   repeatn = 3)
@@ -12,8 +11,7 @@ tutKNNcv(inputFile, folds = 5, paramGrid = expand.grid(k = 2:30),
 
 }
 \description{
-Cross validated KNN for analysis
-NOT VIEWABLE IN PACKAGE
+Cross validated KNN for analysis, not used for tutorial.
 }
 \examples{
 

@@ -1,5 +1,4 @@
-#' Cross validated NB for analysis
-#' NOT VIEWABLE IN PACKAGE
+#' Cross validated NB for analysis, not used for tutorial.
 #'
 #' @param
 #' @return
