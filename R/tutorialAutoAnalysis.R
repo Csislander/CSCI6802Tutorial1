@@ -7,7 +7,7 @@
 #'
 #' @examples
 #'
-#'
+
 
 tutorialAutoAnalysis <- function(inputFile){
 
