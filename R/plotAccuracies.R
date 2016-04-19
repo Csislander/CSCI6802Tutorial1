@@ -1,5 +1,4 @@
-#' Plot accuracies of all methods and their error bars
-#' NOT VIEWABLE IN PACKAGE
+#' Plot accuracies of all methods and their error bars. Used in analysis, not used for tutorial.
 #'
 #' @param
 #' @return

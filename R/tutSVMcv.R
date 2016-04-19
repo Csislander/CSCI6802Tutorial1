@@ -1,5 +1,5 @@
-#' Cross validated SVM for analysis
-#' NOT VIEWABLE IN PACKAGE
+#' Cross validated SVM for analysis, not used for tutorial.
+#'
 #'
 #' @param
 #' @return
